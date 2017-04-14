@@ -1,0 +1,259 @@
+---
+ru:
+  title: Веселые ребята
+
+  phone: +375 44 788-12-64 сестра Анастасия
+  footer: В рамках фестиваля "От сердца к сердцу"
+  email: stelisabethprojects@gmail.com
+  text: [ "ПОПАСТЬ НА КОНЦЕРТ" ]
+
+  active_tab: 1
+
+  main_panel:
+    pre_title: ТВОРЧЕСКИЙ КОЛЛЕКТИВ
+    title: ВЕСЕЛЫЕ РЕБЯТА
+    text:
+      - "— Его участники живут в одном из психоневрологических интернатов для людей с
+        ограниченными возможностями, многие из которых, несмотря на физические и психические
+        недостатки наделены неограниченными талантами..."
+      - "Узнать больше ➛"
+      - "— Теперь у них появилась уникальная возможность дать выступления в разлчных страных
+        мира..."
+      - "— Поможем осуществить мечту этих ребят!"
+    button_title: ПОМОЧЬ!
+
+
+  trip_panel:
+    text:
+      - "Благодарим Вас за проявленный интерес к нашему проекту!"
+      - "Вход свободный."
+      - "Присоединиться"
+      - "До концерта осталось"
+      - "Дня|Часов|Минут|Секунд"
+    trip:
+      - id: poland
+        name: Польша
+        concerts:
+          - id: warsaw1
+            name: Варшава
+            subname: Духовно-просветительский центр
+            date: 2017-05-14 12:00
+            place: ul. Świętych Cyryla i Metodego 4, 03-403 Warszawa
+            large: true
+          - id: warsaw2
+            name: Варшава
+            subname: Костел Св. Яцека
+            date: 2017-05-14 16:00
+            place: ul. Freta 1000-227 Warszawa
+            large: true
+
+      - id: germany
+        name: Германия
+        concerts:
+          - id: berlin
+            name: Берлин
+            date: 2017-05-16 18:00
+            place: Russisches Haus der Wissenschaft und Kultur, Friedrichstraße, 176-179, 10117, Berlin
+            large: true
+
+      - id: france
+        name: Франция
+        concerts:
+
+          - id: troyes
+            name: Труа
+            date: 2017-05-18 19:30
+            place: Église Saint-Jean-au-Marché, 78 Rue Urbain IV, 10000 Troyes
+
+          - id: nancy
+            name: Нанси
+            date: 2017-05-19 20:30
+            place: Eglise Saint Pierre, Place Saint-Pierre, à 54110 Rosières-aux-Salines
+
+          - id: graye
+            name: Грей
+            date: 2017-05-20 20:00
+            place: Salle des Congrès, 1 B Rue Moïse Lévy, 70100 Gray
+
+          - id: paris
+            name: Париж
+            date: 2017-05-21 14:00
+            place: Амфитеатр Русского Духовно-культурного центра при Кафедральном соборе Святой
+              Троицы. 1, quau Branly - 75007 Paris
+            large: true
+
+  about_modal:
+    header:   "Понимать сердцем, петь душой..."
+    article:
+      - 
+        - Много лет при монастыре действует творческий коллектив "Весёлые ребята", которым руководит монахиня София (Демьянова). Его участники живут в одном из интернатов для людей с ограниченными возможностями, многие из которых наделены неограниченными талантами. Несмотря на свои психические и физические недуги они не унывают, а ищут спасение в творчестве. 
+        - Их социум — это территория психоневрологического интерната № 3. Кто-то попал сюда волей судьбы, а кто-то провел здесь всю свою жизнь. Им недоступно большинство самых простых радостей жизни. То, что для нас обыденность, для них — неизвестность. Когда мы смотрим на них из «большого мира», нам кажется, что они лишены всего. Но это не так. Да, конечно, они не могут жить в обычном для нас ритме. Однако это не значит, что они бедны душой. Сестры и братья, которые посещают интернат, отмечают их искренность и чуткость. Эти люди никогда не предадут, не обманут — они просто не умеют этого.
+      -
+        - «Веселые ребята» выступают не только в родных стенах.
+        - В рамках благотворительных проектов они уже не раз выступали в России и Европе. В планах на ближайшее будущее — поездка во Францию. Все это возможно благодаря пожертвованиям тех, кто не равнодушен к их судьбам. И мы надеемся, что с Божией помощью творческая копилка артистов пополнится еще одним удачным выступлением.
+    quotes: 
+      - paragraphs: 
+          - "— Никто из них не имеет музыкального образования, но все умеют петь душой, — рассказывает матушка София."
+          - "— Они не только поют, но и играют на ложках, танцуют. А как красиво порой говорят!"
+        author: "Монахиня София (Демьянова)"
+      
+      - paragraphs: 
+          - |
+            — Я пробовала петь, когда была еще ребенком. А в хоре я уже больше года.  Мне нравится выступать — нас хорошо принимают, аплодируют.
+          - |
+            Очень хочется поехать во Францию! Увидеть Эйфелеву башню в Париже, подняться на нее, посмотреть на город с высоты! И очень интересно пообщаться с людьми, которые там живут. Каждая поездка — это память, новые знакомые, интересные моменты!
+        author: "Солистка ансамбля-Елена Захаревская" 
+
+  help_modal:
+    header:
+      - Дорогие наши друзья! Благодарим вас за интерес к нашему проекту! 
+      -
+        - Искренне надеемся, что вместе мы сможем сделать невозможное – возможным, и разделить с «Веселыми ребятами» радость исполнения их мечты!
+        - Ваша поддержка, а также помощь в продвижении нашего сайта нам очень важны!
+    bank:
+      - "Вы можете помочь проекту:"
+      - "Оказав финансовую поддержку, пожертвовав какую-либо сумму."
+      - "Реквизиты для пожертвований:"
+      - |
+        Bank name: BRE Bank S.A.INTERNETBANKING
+        Bank address: al.Pilsudskiego 3, 90-368 Lodz
+        IBAN: PL27114020040000371201841659
+        Receiver: Magdalena Tichoniuk
+        Address: ul. Stefana Zeromskiego 11, 17-200
+        Hajnowka, Polska
+        BIC/SWIFT: BREXPLPWMBK
+        Purpose: for the trip «Joyful Hearts» to France
+    other: 
+      - "Поддержка бывает не только материальной..."
+      -
+        - "Расскажите о нас друзьям в"
+        - "Расскажите о нас своим друзьям, родственникам, коллегам, чтобы и они, так же как и Вы, могли прийти на наш концерт."
+        - "Здесь Вы можете скачать нашу афишу и помочь в её распространении."
+fr:
+  title: Les Coeurs en Joie 
+
+  phone: +375 44 788-12-64 Soeur Anastasia
+  footer: dans le cadre du festival “De coeur à Coeur”
+  email: stelisabethprojects@gmail.com
+  text: 
+    - "VISITER NOTRE CONCERT"
+
+  active_tab: 3
+
+  main_panel:
+    pre_title: UN ENSEMBLE 
+    title: LES COEURS EN JOIE
+    text:
+      - "— Ce collectif d'artistes du Service de Neuropsychiatrie, ils peuvent nous épater de leurs talents malgré leurs infirmités."
+      - "En savoir plus"
+      - "— Les «Coeurs en Joie» ont aujourd’hui la possibilité faire découvrir leur spectacle hors fontières, à la découverte des pays de l’Europe de l’Ouest!"
+      - "— Aidons-les à réaliser leur rêve!"
+      
+
+    button_title: FAIRE UN DON
+    
+
+  trip_panel:
+    text:
+      - "Nous vous remercions cordialement de votre intérêt pour notre projet!"
+      - "Entrée libre."
+      - "nos concerts auront lieu..."
+      - "Avant le concert il reste"
+      - "Jours|Heures|Minutes|Seconds"
+
+    trip:
+      - id: poland
+        name: Pologne
+        concerts: 
+         - id: warsaw-1
+           name: Varsovie
+           date: 2017-05-14 12-00
+           place: ul. Świętych Cyryla i Metodego 4, 03-403 Warszawa (Le 14 mai à 12h00, 4, rue Saints Cyrille et Méthode, 03-403, Varsovie)   
+           large: true
+         - id: warsaw-2
+           name: Varsovie
+           date: 2017-05-14 16-00
+           place: ul. Freta 1000-227 Warszawa (le 14 mai à 16h00, rue Fret 1000-227, Varsovie)
+           large: true
+
+      - id: germany
+        name: Allemagne
+        concerts:
+          - id: berlin
+            name: Berlin 
+            date: 2017-05-16 18:00
+            place: Russisches Haus der Wissenschaft und Kultur, Friedrichstraße, 176-179, 10117, Berlin (Le 16 mai à 18h00, Maison russe de la science et la culture)
+            large: true
+
+      - id: france
+        name: France
+        concerts:
+
+          - id: troyes
+            name: Troyes
+            date: 2017-05-18 19:30
+            place: Église Saint-Jean-au-Marché, 78 Rue Urbain IV, 10000 Troyes
+
+          - id: nancy
+            name: Nancy
+            date: 2017-05-19 20:30
+            place: Eglise Saint Pierre, Place Saint-Pierre, à 54110 Rosières-aux-Salines
+
+          - id: graye
+            name: Gray
+            date: 2017-05-20 20:00
+            place: Salle des Congrès, 1 B Rue Moïse Lévy, 70100 Gray
+
+          - id: paris
+            name: Paris
+            date: 2017-05-21 14:00
+            place: Le 21 mai à 14h00, à l’amphithéâtre du Centre culturel et spirituel auprès de la cathédrale de la Sainte Trinité (1, quai(?i=u) Branly - 75007 Paris).
+            large: true
+
+  about_modal:
+    header:   "COMPRENDRE AVEC LE COEUR, CHANTER AVEC L’ÂME..."
+    article:
+      - 
+        - Много лет при монастыре действует творческий коллектив "Весёлые ребята", которым руководит монахиня София (Демьянова). Его участники живут в одном из интернатов для людей с ограниченными возможностями, многие из которых наделены неограниченными талантами. Несмотря на свои психические и физические недуги они не унывают, а ищут спасение в творчестве. 
+        - Их социум — это территория психоневрологического интерната № 3. Кто-то попал сюда волей судьбы, а кто-то провел здесь всю свою жизнь. Им недоступно большинство самых простых радостей жизни. То, что для нас обыденность, для них — неизвестность. Когда мы смотрим на них из «большого мира», нам кажется, что они лишены всего. Но это не так. Да, конечно, они не могут жить в обычном для нас ритме. Однако это не значит, что они бедны душой. Сестры и братья, которые посещают интернат, отмечают их искренность и чуткость. Эти люди никогда не предадут, не обманут — они просто не умеют этого.
+      -
+        - «Веселые ребята» выступают не только в родных стенах.
+        - В рамках благотворительных проектов они уже не раз выступали в России и Европе. В планах на ближайшее будущее — поездка во Францию. Все это возможно благодаря пожертвованиям тех, кто не равнодушен к их судьбам. И мы надеемся, что с Божией помощью творческая копилка артистов пополнится еще одним удачным выступлением.
+    quotes: 
+      - paragraphs: 
+          - "— Никто из них не имеет музыкального образования, но все умеют петь душой, — рассказывает матушка София."
+          - "— Они не только поют, но и играют на ложках, танцуют. А как красиво порой говорят!"
+        author: "Монахиня София (Демьянова)"
+      
+      - paragraphs: 
+          - |
+            — Я пробовала петь, когда была еще ребенком. А в хоре я уже больше года.  Мне нравится выступать — нас хорошо принимают, аплодируют.
+          - |
+            Очень хочется поехать во Францию! Увидеть Эйфелеву башню в Париже, подняться на нее, посмотреть на город с высоты! И очень интересно пообщаться с людьми, которые там живут. Каждая поездка — это память, новые знакомые, интересные моменты!
+        author: "Солистка ансамбля-Елена Захаревская" 
+
+  help_modal:
+    header:
+      - Дорогие наши друзья! Благодарим вас за интерес к нашему проекту! 
+      -
+        - Искренне надеемся, что вместе мы сможем сделать невозможное – возможным, и разделить с «Веселыми ребятами» радость исполнения их мечты!
+        - Ваша поддержка, а также помощь в продвижении нашего сайта нам очень важны!
+    bank:
+      - "Vous pouvez aider à notre projet:"
+      - "Оказав финансовую поддержку, пожертвовав какую-либо сумму."
+      - "Реквизиты для пожертвований:"
+      - |
+        Bank name: BRE Bank S.A.INTERNETBANKING
+        Bank address: al.Pilsudskiego 3, 90-368 Lodz
+        IBAN: PL27114020040000371201841659
+        Receiver: Magdalena Tichoniuk
+        Address: ul. Stefana Zeromskiego 11, 17-200
+        Hajnowka, Polska
+        BIC/SWIFT: BREXPLPWMBK
+        Purpose: for the trip «Joyful Hearts» to France
+    other: 
+      - "Votre soutien peut être non seulement materiel, mais aussi:"
+      -
+        - "en partageant à vos amis sur"
+        - "En diffusant ces informations parmi vos amis, vos proches et vos collègues pour qu’ils viennent à ces concerts."
+        - "En téléchargeant <a>ici</a> notre affiche pour nous aider à la diffuser."
